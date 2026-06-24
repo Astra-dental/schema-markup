@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://astradentalcentre.com/#organization",
+  "name": "Astra Dental Centre",
+  "url": "https://astradentalcentre.com/",
+  "logo": "https://astradentalcentre.com/logo.png",
+  "email": "reception@astradentalcentre.com",
+  "telephone": "+1-604-533-8806",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Unit 120, 20061 Fraser Hwy",
+    "addressLocality": "Langley",
+    "addressRegion": "BC",
+    "postalCode": "V3A 4E6",
+    "addressCountry": "CA"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-604-533-8806",
+    "contactType": "reception",
+    "areaServed": "CA",
+    "availableLanguage": "English"
+  },
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=61574706966726",
+    "https://www.instagram.com/astra_dentalcentre/"
+  ]
+}
