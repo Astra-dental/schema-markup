@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where is Astra Dental Centre located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Astra Dental Centre is located at Unit 120, 20061 Fraser Hwy, Langley, BC. The parkade entrance is behind the building, accessible from 20058 Industrial Ave."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are your office hours?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We are open Monday and Friday from 10:00 AM to 7:00 PM, Tuesday through Thursday and Saturday from 9:00 AM to 5:00 PM, and closed on Sunday."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are you accepting new patients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we welcome new patients and families from Langley and across the Fraser Valley."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer direct billing and accept the CDCP?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we provide direct billing to all major insurers and accept the Canadian Dental Care Plan (CDCP)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer Invisalign and same-day crowns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Dr. Potluri is a certified Invisalign provider and we offer same-day CEREC crowns, so many restorations can be completed in a single visit."
+      }
+    }
+  ]
+}
