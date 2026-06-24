@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://astradentalcentre.com/#dentist",
+  "name": "Astra Dental Centre",
+  "image": "https://astradentalcentre.com/logo.png",
+  "url": "https://astradentalcentre.com/",
+  "telephone": "+1-604-533-8806",
+  "email": "reception@astradentalcentre.com",
+  "priceRange": "$$",
+  "currenciesAccepted": "CAD",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Unit 120, 20061 Fraser Hwy",
+    "addressLocality": "Langley",
+    "addressRegion": "BC",
+    "postalCode": "V3A 4E6",
+    "addressCountry": "CA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "49.1044",
+    "longitude": "-122.6604"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Dr. B. Kumar Potluri"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Friday"],
+      "opens": "10:00",
+      "closes": "19:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Saturday"],
+      "opens": "09:00",
+      "closes": "17:00"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=61574706966726",
+    "https://www.instagram.com/astra_dentalcentre/"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "100"
+  }
+}
