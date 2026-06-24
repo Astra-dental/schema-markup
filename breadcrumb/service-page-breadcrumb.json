@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://astradentalcentre.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Langley Dental Services",
+      "item": "https://astradentalcentre.com/langley-dental-services/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Invisalign",
+      "item": "https://astradentalcentre.com/langley-dental-services/invisalign/"
+    }
+  ]
+}
