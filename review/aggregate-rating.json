@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://astradentalcentre.com/#dentist",
+  "name": "Astra Dental Centre",
+  "url": "https://astradentalcentre.com/",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "worstRating": "1",
+    "reviewCount": "100"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "REPLACE_WITH_REAL_REVIEWER_NAME"
+      },
+      "reviewBody": "REPLACE_WITH_REAL_REVIEW_TEXT_FROM_GOOGLE"
+    }
+  ]
+}
