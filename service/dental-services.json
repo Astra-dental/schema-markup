@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Dental Services",
+  "provider": {
+    "@type": "Dentist",
+    "name": "Astra Dental Centre",
+    "@id": "https://astradentalcentre.com/#dentist",
+    "url": "https://astradentalcentre.com/",
+    "telephone": "+1-604-533-8806",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unit 120, 20061 Fraser Hwy",
+      "addressLocality": "Langley",
+      "addressRegion": "BC",
+      "addressCountry": "CA"
+    }
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Langley"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Dental Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "General & Family Dentistry"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cosmetic Dentistry & Teeth Whitening"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Invisalign Clear Aligners"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Same-Day CEREC Crowns"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Dental Implants & Restorations"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Emergency Dental Care"
+        }
+      }
+    ]
+  }
+}
