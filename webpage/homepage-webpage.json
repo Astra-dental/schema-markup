@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://astradentalcentre.com/#webpage",
+  "url": "https://astradentalcentre.com/",
+  "name": "Astra Dental Centre | Dentist in Langley, BC",
+  "description": "Astra Dental Centre offers family, cosmetic, Invisalign, and emergency dental care in Langley, BC. Led by Dr. B. Kumar Potluri with 30+ years of experience.",
+  "inLanguage": "en-CA",
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://astradentalcentre.com/#website",
+    "url": "https://astradentalcentre.com/",
+    "name": "Astra Dental Centre"
+  },
+  "about": {
+    "@type": "Dentist",
+    "@id": "https://astradentalcentre.com/#dentist"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://astradentalcentre.com/#organization"
+  },
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "url": "https://astradentalcentre.com/REPLACE_WITH_HERO_IMAGE.jpg"
+  }
+}
