@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "https://astradentalcentre.com/blog/REPLACE_WITH_POST_SLUG/#blogposting",
+  "headline": "REPLACE_WITH_BLOG_POST_TITLE",
+  "description": "REPLACE_WITH_META_DESCRIPTION",
+  "image": "https://astradentalcentre.com/REPLACE_WITH_FEATURED_IMAGE.jpg",
+  "datePublished": "REPLACE_WITH_PUBLISH_DATE (e.g. 2025-01-15)",
+  "dateModified": "REPLACE_WITH_MODIFIED_DATE (e.g. 2025-01-15)",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. B. Kumar Potluri",
+    "url": "https://astradentalcentre.com/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Astra Dental Centre",
+    "@id": "https://astradentalcentre.com/#organization",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://astradentalcentre.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://astradentalcentre.com/blog/REPLACE_WITH_POST_SLUG/"
+  }
+}
